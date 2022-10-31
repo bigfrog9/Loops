@@ -1,0 +1,8 @@
+C:\Users\W0462338\LogicProgramming\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\W0462338\LogicProgramming\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\W0462338\LogicProgramming\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\W0462338\LogicProgramming\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\W0462338\LogicProgramming\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\W0462338\LogicProgramming\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\W0462338\LogicProgramming\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\W0462338\LogicProgramming\Loops\Loops\obj\Debug\Loops.pdb
